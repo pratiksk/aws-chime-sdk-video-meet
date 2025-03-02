@@ -1,8 +1,4 @@
-const API_URL = "https://lebs30gig4.execute-api.us-east-1.amazonaws.com/dev";
-
-
-// src/utils/api.ts
-// Replace this with your actual API Gateway URL
+const API_URL = "YOUR_API_URL"; //replace with your API URL
 
 export interface Meeting {
   MeetingId: string;
